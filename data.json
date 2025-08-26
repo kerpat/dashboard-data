@@ -2,18 +2,18 @@
     {
         "id":1,
         "phone":"+79197064561",
-        "full_name":null,
+        "full_name":"\u0410\u043d\u0442\u043e\u043d \u0427\u0438\u0433\u0443\u0440",
         "start_time":1756252577,
-        "book_time":null,
-        "processing_time":null,
-        "status":"in_process",
+        "book_time":1756252693,
+        "processing_time":116,
+        "status":"booked",
         "amo_lead_id":32745251,
-        "city":null,
-        "age":null,
-        "company":null,
-        "hours_per_day":null,
-        "duration":null,
-        "model":null,
-        "booking_datetime":null
+        "city":"\u041c\u043e\u0441\u043a\u0432\u0430",
+        "age":"23",
+        "company":"\u041e\u0437\u043e\u043d",
+        "hours_per_day":"3",
+        "duration":"\u041f\u0440\u043e\u0441\u0442\u043e \u043f\u043e\u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c",
+        "model":"Moover Pro! (12 + 12 Ah)",
+        "booking_datetime":"29.08.2025 \u0432 12:00"
     }
 ]
