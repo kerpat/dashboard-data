@@ -21,17 +21,17 @@
         "phone":"79223670081",
         "full_name":"\u041d\u0435 \u0443\u043a\u0430\u0437\u0430\u043d\u043e",
         "start_time":1756253007,
-        "book_time":1756253275.0,
-        "processing_time":268.0,
+        "book_time":1756747753.0,
+        "processing_time":494746.0,
         "status":"booked",
         "amo_lead_id":32745261,
-        "city":"\u041c\u043e\u0441\u043a\u0432\u0430",
-        "age":"32",
+        "city":"\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433",
+        "age":"22",
         "company":"\u041a\u0443\u043f\u0435\u0440",
         "hours_per_day":"7",
         "duration":"\u041d\u0430 \u041c\u0435\u0441\u044f\u0446 +",
         "model":"Moover Monster (22 + 22 Ah)",
-        "booking_datetime":"\u0437\u0430\u0432\u0442\u0440\u0430 \u0432 15:00"
+        "booking_datetime":"\u0437\u0430\u0432\u0442\u0440\u0430 \u0432 19"
     },
     {
         "id":3,
